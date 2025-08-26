@@ -21,7 +21,7 @@ E-commerce: Platforms selling pet-related products can integrate the solution to
 
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
-This is how you create code examples:
+
 ```
 def main():
     users = ['Researchers and scientists', 'E-commerce platforms', 'Cat lovers']
